@@ -89,5 +89,3 @@ Without this step, Firebase will block login requests from GitHub Pages.
 No build step needed. Open `index.html` directly in a browser — note that Firebase Auth blocks `localhost` by default in projects created after April 2025. Add `localhost` to your authorized domains in Firebase Console if you want to test locally.
 
 ---
-
-*Built with [Claude](https://claude.ai)*
